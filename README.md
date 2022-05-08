@@ -1,6 +1,6 @@
 # Instagram Post Scraper
 
-This scraper is coded using python to scrape 100 recent instagram post with the hashtag _#topupshopeepay_ as part of a challenge by Shopee. It uses the library Selenium and BeautifulSoup to mannually go through each instagram post and extract the details like Username, Post_URL, Total_Likes, and Post_Upload_Date.
+This scraper is coded using python to scrape through 100 recent instagram post with the hashtag _#topupshopeepay_ as part of a challenge by Shopee. It uses the library Selenium and BeautifulSoup to mannually go through each instagram post and extract the details like Username, Post_URL, Total_Likes, and Post_Upload_Date, and then stores these information into a CSV file.
 
 # Instructions
 1. Before running the codes, please ensure that you have the required packages installed. 
